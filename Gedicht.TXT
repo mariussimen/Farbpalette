@@ -1,7 +1,7 @@
 # Farbpalette
 
 Rot
-Grün
+Grün 
 Blau
 Cyan
 Magenta
